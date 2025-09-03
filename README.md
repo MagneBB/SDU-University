@@ -2,9 +2,9 @@
 
 # My Exercises
 Useful links:
-- [Githubs support for
-,→ Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax- [Is it Christmas?](https://isitchristmas.com)
-(https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)
+- [Githubs support for,→ Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Is it Christmas?](https://isitchristmas.com)
+- [Cute kittens playing with their paws](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)
 
 ## Formatting Examples:
 1. *Italic* text.
