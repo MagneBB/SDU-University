@@ -1,0 +1,15 @@
+C:\Users\magne\Documents\SDU UNI\SDU Repository\SDU-University\bin\Debug\net9.0\SDU-University.exe
+C:\Users\magne\Documents\SDU UNI\SDU Repository\SDU-University\bin\Debug\net9.0\SDU-University.deps.json
+C:\Users\magne\Documents\SDU UNI\SDU Repository\SDU-University\bin\Debug\net9.0\SDU-University.runtimeconfig.json
+C:\Users\magne\Documents\SDU UNI\SDU Repository\SDU-University\bin\Debug\net9.0\SDU-University.dll
+C:\Users\magne\Documents\SDU UNI\SDU Repository\SDU-University\bin\Debug\net9.0\SDU-University.pdb
+C:\Users\magne\Documents\SDU UNI\SDU Repository\SDU-University\obj\Debug\net9.0\SDU-University.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magne\Documents\SDU UNI\SDU Repository\SDU-University\obj\Debug\net9.0\SDU-University.AssemblyInfoInputs.cache
+C:\Users\magne\Documents\SDU UNI\SDU Repository\SDU-University\obj\Debug\net9.0\SDU-University.AssemblyInfo.cs
+C:\Users\magne\Documents\SDU UNI\SDU Repository\SDU-University\obj\Debug\net9.0\SDU-University.csproj.CoreCompileInputs.cache
+C:\Users\magne\Documents\SDU UNI\SDU Repository\SDU-University\obj\Debug\net9.0\SDU-University.sourcelink.json
+C:\Users\magne\Documents\SDU UNI\SDU Repository\SDU-University\obj\Debug\net9.0\SDU-University.dll
+C:\Users\magne\Documents\SDU UNI\SDU Repository\SDU-University\obj\Debug\net9.0\refint\SDU-University.dll
+C:\Users\magne\Documents\SDU UNI\SDU Repository\SDU-University\obj\Debug\net9.0\SDU-University.pdb
+C:\Users\magne\Documents\SDU UNI\SDU Repository\SDU-University\obj\Debug\net9.0\SDU-University.genruntimeconfig.cache
+C:\Users\magne\Documents\SDU UNI\SDU Repository\SDU-University\obj\Debug\net9.0\ref\SDU-University.dll
